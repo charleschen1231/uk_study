@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="spark-master">
+    <CLASSES>
+      <root url="file://F:/code/spark-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/code/spark-master/spark-master/common/kvstore/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/kvstore/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/network-common/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/network-common/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/network-shuffle/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/network-shuffle/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/network-yarn/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/sketch/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/tags/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/tags/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/common/tags/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/unsafe/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/common/unsafe/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/core/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/core/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/core/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/examples/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/external/avro/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/external/kafka-0-10-sql/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/external/kafka-0-10/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/external/kafka-0-10/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/external/kinesis-asl/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/external/kinesis-asl/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/external/spark-ganglia-lgpl/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/graphx/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/graphx/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/launcher/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/launcher/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/mllib/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/mllib/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/resource-managers/mesos/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/resource-managers/yarn/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/catalyst/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/catalyst/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/core/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/core/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/sql/core/src/test/gen-java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/core/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/core/v1.2/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/core/v2.3/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive-thriftserver/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive-thriftserver/v1.2/src/gen/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive-thriftserver/v1.2/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive-thriftserver/v2.3/src/gen/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive-thriftserver/v2.3/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/sql/hive/src/test/java" />
+      <root url="file://F:/code/spark-master/spark-master/streaming/src/main/java" />
+      <root url="file://F:/code/spark-master/spark-master/streaming/src/main/scala" />
+      <root url="file://F:/code/spark-master/spark-master/streaming/src/test/java" />
+      <root url="file://F:/code/spark-master/xiahangcom/src/xiahangdemo/src/main/java" />
+      <root url="file://F:/code/spark-master/xiahangcom/src/xiahangdemo/src/main/scala" />
+    </SOURCES>
+  </library>
+</component>
